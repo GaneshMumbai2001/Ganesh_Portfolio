@@ -1,10 +1,10 @@
-import React, { useState , useContext} from "react";
+import React, { useState } from "react";
 import Navbar from "react-bootstrap/Navbar";
 import Nav from "react-bootstrap/Nav";
 import Container from "react-bootstrap/Container";
 import { Link } from "react-router-dom";
 import { GrCertificate } from "react-icons/gr";
-import { MoonIcon, SunIcon} from '@heroicons/react/outline';
+
 import { CgGitFork } from "react-icons/cg";
 import Button from "react-bootstrap/Button";
 import {
